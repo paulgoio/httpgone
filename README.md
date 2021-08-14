@@ -2,9 +2,13 @@
 
 A simple nginx server that you can run in place of your original site you want to remove from search engine indexes
 
+
+
 ### Basic Example
 
 * ```docker run -it --rm -p 8080:80 paulgoio/httpgone:production```
+
+
 
 ### How It Works
 
