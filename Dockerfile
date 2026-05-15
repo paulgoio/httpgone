@@ -1,2 +1,2 @@
-FROM nginx:1.30.0-alpine
+FROM nginx:1.31.0-alpine
 COPY ./src/nginx.conf /etc/nginx
